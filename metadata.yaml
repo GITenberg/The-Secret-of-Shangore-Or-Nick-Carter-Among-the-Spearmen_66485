@@ -1,0 +1,30 @@
+_repo: The-Secret-of-Shangore-Or-Nick-Carter-Among-the-Spearmen_66485
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carter, Nicholas (House name)
+    alias: Carter, Nick
+    gutenberg_agent_id: '4161'
+    url: http://www.gutenberg.org/2009/agents/4161
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/43953
+    - http://www.gutenberg.org/ebooks/author/2983
+    - http://www.gutenberg.org/ebooks/author/1599
+  editor:
+    agent_name: Carter, Chickering
+    gutenberg_agent_id: '53837'
+    url: http://www.gutenberg.org/2009/agents/53837
+description: ''
+gutenberg_issued: '2021-10-07'
+identifiers:
+  gutenberg: '66485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Secret of Shangore;
+
+  Or, Nick Carter Among the Spearmen'
+url: http://www.gutenberg.org/ebooks/66485
